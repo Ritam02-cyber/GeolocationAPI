@@ -27,7 +27,7 @@ npm start
 ```
 
 ## Deta server
-Link - https://45gjjg.deta.dev/get-address
+Link - https://45gjjg.deta.dev/get-address<br>
 ![Screenshot](https://user-images.githubusercontent.com/62924322/212553520-4d9f6513-1ad9-43e0-9fc3-153e4710bd20.png)
 
 ## Author
