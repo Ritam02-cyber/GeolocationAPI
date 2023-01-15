@@ -1,0 +1,1 @@
+{"id":"ebf4d220-8004-4e19-a348-bbe32b615939","space":47634,"runtime":"nodejs14.x","name":"GeolocationAPI","path":"45gjjg","project":"d0dxoxer","account":"144798365827","region":"ap-south-1","deps":["ejs@^3.1.8","express@^4.18.2","nodemon@^2.0.20"],"envs":null,"public":true,"log_level":"debug","cron":""}
